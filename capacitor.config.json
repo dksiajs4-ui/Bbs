@@ -1,0 +1,6 @@
+{
+  "appId": "com.bbs.recorder",
+  "appName": "BBS Recorder",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
